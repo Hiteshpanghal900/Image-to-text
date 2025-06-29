@@ -1,0 +1,4 @@
+numpy
+Pillow
+
+https://coreui.io/vue/docs/components/accordion.html
